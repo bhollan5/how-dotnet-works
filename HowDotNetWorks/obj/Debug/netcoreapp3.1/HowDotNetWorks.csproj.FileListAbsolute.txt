@@ -35,3 +35,5 @@ C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.
 C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.1\HowDotNetWorks.pdb
 C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.1\HowDotNetWorks.genruntimeconfig.cache
 C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.1\HowDotNetWorks.csproj.CopyComplete
+C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.1\Razor\Pages\WhatIsDotNet.cshtml.g.cs
+C:\Users\bholl\source\repos\HowDotNetWorks\HowDotNetWorks\obj\Debug\netcoreapp3.1\Razor\Pages\AspDotNetBasics.cshtml.g.cs
