@@ -9,9 +9,6 @@ for details on configuring this project to bundle and minify static web assets. 
     background: #262626;
     height: 70px;
 }
-.navbar a {
-    text-decoration: none;
-}
 
 .purple-text {
     color: var(--purple);
@@ -28,9 +25,6 @@ for details on configuring this project to bundle and minify static web assets. 
     margin-top: 20px;
     margin-left: 10px;
     position: relative;
-}
-#side-menu-bar li a {
-    text-decoration: none;
 }
 #side-menu-bar li::after {
     content: '';
