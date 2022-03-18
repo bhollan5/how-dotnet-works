@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\bholl\\source\\repos\\HowDotNetWorks\\HowDotNetWorks\\HowDotNetWorks.csproj": {}
+    "C:\\Users\\bholl\\github.com\\how-dotnet-works\\HowDotNetWorks\\HowDotNetWorks.csproj": {}
   },
   "projects": {
-    "C:\\Users\\bholl\\source\\repos\\HowDotNetWorks\\HowDotNetWorks\\HowDotNetWorks.csproj": {
+    "C:\\Users\\bholl\\github.com\\how-dotnet-works\\HowDotNetWorks\\HowDotNetWorks.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\bholl\\source\\repos\\HowDotNetWorks\\HowDotNetWorks\\HowDotNetWorks.csproj",
+        "projectUniqueName": "C:\\Users\\bholl\\github.com\\how-dotnet-works\\HowDotNetWorks\\HowDotNetWorks.csproj",
         "projectName": "HowDotNetWorks",
-        "projectPath": "C:\\Users\\bholl\\source\\repos\\HowDotNetWorks\\HowDotNetWorks\\HowDotNetWorks.csproj",
+        "projectPath": "C:\\Users\\bholl\\github.com\\how-dotnet-works\\HowDotNetWorks\\HowDotNetWorks.csproj",
         "packagesPath": "C:\\Users\\bholl\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\bholl\\source\\repos\\HowDotNetWorks\\HowDotNetWorks\\obj\\",
+        "outputPath": "C:\\Users\\bholl\\github.com\\how-dotnet-works\\HowDotNetWorks\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\bholl\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -21,8 +21,7 @@
           "netcoreapp3.1"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {}
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {}
         },
         "frameworks": {
           "netcoreapp3.1": {
@@ -57,7 +56,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.102\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

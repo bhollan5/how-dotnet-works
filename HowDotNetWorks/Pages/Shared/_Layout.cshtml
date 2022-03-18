@@ -12,7 +12,7 @@
         <nav class="navbar box-shadow">
             <div class="pl-2">
                 <h3 class="font-weight-bold">
-                    <a class="text-white" asp-area="" asp-page="/Index">How .NET Works</a>
+                    <a class="text-white" asp-area="" asp-page="/Index">How <span class="purple-text">DotNet</span> Works</a>
                 </h3>
                 <!--
                  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target=".navbar-collapse" aria-controls="navbarSupportedContent"
@@ -35,11 +35,11 @@
     <div class=" bg-black d-flex" id="main-content">
         <div class="container" id="side-menu-bar">
             <ol>
-                <li><a class="text-white menu-link" asp-area="" asp-page="/WhatIsDotNet">What is .NET?</a></li>
-                <li><a class="text-white menu-link" asp-area="" asp-page="/AspDotNetBasics">ASP .NET Basics</a></li>
-                <li><a class="text-white menu-link" asp-area-"" asp-page="/Blazor">Blazor</a></li>
-                <li>Serving a .NET website</li>
-                <li>Other .NET tools</li>
+                <li class="menu-link" id="WhatIsDotNet"><a class="text-white" asp-area="" asp-page="/WhatIsDotNet">What is .NET?</a></li>
+                <li class="menu-link" id="AspDotNetBasics"><a class="text-white" asp-area="" asp-page="/AspDotNetBasics">ASP .NET Basics</a></li>
+                <li class="menu-link" id="Blazor"><a class="text-white" asp-area-"" asp-page="/Blazor">Blazor</a></li>
+                <li class="menu-link" id="ServingADotNetWebsite"><a class="text-white" asp-area-"" asp-page="/ServingADotNetWebsite">Serving a .NET website</a></li>
+                <li class="menu-link" id="OtherDotNetTools"><a class="text-white" asp-area-"" asp-page="/OtherDotNetTools">Other .NET tools</a></li>
             </ol>
         </div>
         <main role="main" class="pb-3">

@@ -1,9 +1,17 @@
 ﻿/* Please see documentation at https://docs.microsoft.com/aspnet/core/client-side/bundling-and-minification
 for details on configuring this project to bundle and minify static web assets. */
 
+:root {
+    --purple: #AC8BCF;
+}
+
 .navbar {
     background: #262626;
     height: 70px;
+}
+
+.purple-text {
+    color: var(--purple);
 }
 
 #side-menu-bar {
@@ -29,6 +37,12 @@ for details on configuring this project to bundle and minify static web assets. 
     left: -45px;
     top: 2px;
 }
+.selected-link {
+    font-weight: bold;
+}
+#side-menu-bar li.selected-link::after {
+    background: #cb8ce6;
+}
 
 #main-content {
     height: calc(100vh - 70px);
@@ -36,22 +50,22 @@ for details on configuring this project to bundle and minify static web assets. 
     width: 100%;
 }
 main {
-    width: 100%;
+    width: 700px;
+    max-width: 90%;
     padding: 20px 20px 100px 20px;
+    margin: 0px auto 0px auto;
     overflow-y: scroll;
+    box-sizing: border-box;
 }
 
 b {
     color: #cb8ce6;
 }
 
-.selected-link {
-    font-weight: bold;
-}
-
 /* Provide sufficient contrast against black background */
 a {
-  color: #0366d6;
+  color: var(--purple);
+  text-decoration: underline;
 }
 
 .btn-primary {
